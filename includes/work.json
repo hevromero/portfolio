@@ -1,0 +1,203 @@
+{
+  "illustrations": [
+    {
+      "name": "Steven Universe Fan Works",
+      "page": "steven-universe-fan-works.php",
+      "thumb": "steven_universe-peridot.jpg"
+    },
+    {
+      "name": "Morning Coffee",
+      "page": "morning-coffee.php",
+      "thumb": "morning_coffee.png"
+    },
+    {
+      "name": "Subeta: Official &amp; Custom",
+      "page": "subeta-official-and-custom-works.php",
+      "thumb": "subeta-endeavor.png"
+    },
+    {
+      "name": "Happy Stroll",
+      "page": "happy-stroll.php",
+      "thumb": "happy_stroll.png"
+    },
+    {
+      "name": "Pokemon: Kanto Trio",
+      "page": "kanto-trio.php",
+      "thumb": "kanto_trio-zapdos.png"
+    },
+    {
+      "name": "Birds",
+      "page": "birds.php",
+      "thumb": "birds-timneh.png"
+    },
+    {
+      "name": "Nintendo Fan Works",
+      "page": "nintendo-fan-works.php",
+      "thumb": "nintendo-christmas.jpg"
+    },
+    {
+      "name": "In the Forest",
+      "page": "in-the-forest.php",
+      "thumb": "in_the_forest.jpg"
+    },
+    {
+      "name": "Neopets Fan Works",
+      "page": "neopets-fan-works.php",
+      "thumb": "neopets-apple_chase.png"
+    },
+    {
+      "name": "Pets",
+      "page": "pets.php",
+      "thumb": "pets.jpg"
+    },
+    {
+      "name": "Pokemon Fan Works",
+      "page": "pokemon-fan-works.php",
+      "thumb": "pokemon-cosmog.jpg"
+    },
+    {
+      "name": "Wedding",
+      "page": "wedding.php",
+      "thumb": "wedding-hero.png"
+    },
+    {
+      "name": "Poly Mantis",
+      "page": "poly-mantis.php",
+      "thumb": "poly_mantis.png"
+    },
+    {
+      "name": "Morithias",
+      "page": "morithias.php",
+      "thumb": "morithias.jpg"
+    }
+  ],
+  "graphic-design": [
+    {
+      "name": "The Magic of Networking",
+      "page": "the-magic-of-networking.php",
+      "thumb": "the_magic_of_networking.jpg"
+    },
+    {
+      "name": "OClef",
+      "page": "oclef.php",
+      "thumb": "oclef-project.png"
+    },
+    {
+      "name": "SAIT Polytechnic - Interactive Activities",
+      "page": "sait-polytechnic-interactive.php",
+      "thumb": "sait_interactive-antibiotics_animation.png"
+    },
+    {
+      "name": "Interactive Games",
+      "page": "interactive-games.php",
+      "thumb": "monster_maker.png"
+    },
+    {
+      "name": "Ruckus Wireless - Print Design",
+      "page": "ruckus-wireless-print.php",
+      "thumb": "ruckus_print-banner.jpg"
+    },
+    {
+      "name": "Nitor",
+      "page": "nitor-logo.php",
+      "thumb": "nitor-logo.png"
+    },
+    {
+      "name": "NMPD Showcase",
+      "page": "nmpd-showcase.php",
+      "thumb": "nmpd_showcase.jpg"
+    },
+    {
+      "name": "Pixel Sun",
+      "page": "pixel-sun.php",
+      "thumb": "pixel_sun.png"
+    },
+    {
+      "name": "SAIT Polytechnic - Presentation Templates",
+      "page": "sait-polytechnic-templates.php",
+      "thumb": "sait_templates-smartbook.png"
+    },
+    {
+      "name": "St. Patrick's Day",
+      "page": "st-patricks-day.php",
+      "thumb": "ruckus_web-st_patricks_day.png"
+    },
+    {
+      "name": "Trick or Treat",
+      "page": "trick-or-treat.php",
+      "thumb": "trick_or_treat.png"
+    },
+    {
+      "name": "Without a Window",
+      "page": "without-a-window.php",
+      "thumb": "without_a_window.jpg"
+    },
+    {
+      "name": "Yahoo!",
+      "page": "yahoo.php",
+      "thumb": "yahoo-logos.png"
+    }
+  ],
+  "web-design": [
+    {
+      "name": "OT Mobility",
+      "page": "otmobility.php",
+      "thumb": "otmobility-mockup-c.jpg"
+    },
+    {
+      "name": "Portfolio Archive",
+      "page": "portfolio-archive.php",
+      "thumb": "portfolio_archive-home.jpg"
+    },
+    {
+      "name": "Portfolio Concepts",
+      "page": "portfolio-concepts.php",
+      "thumb": "portfolio_concepts-mockup-g.jpg"
+    },
+    {
+      "name": "Ruckus Wireless - 2016 Redesign",
+      "page": "ruckus-wireless-2016-redesign.php",
+      "thumb": "ruckus_www_new-events-b.jpg"
+    },
+    {
+      "name": "Ruckus Wireless - Landing Templates",
+      "page": "ruckus-wireless-acton.php",
+      "thumb": "ruckus_acton-mockup-a.jpg"
+    },
+    {
+      "name": "Ruckus Wireless - AP Migration",
+      "page": "ruckus-wireless-ap-migration.php",
+      "thumb": "ruckus_ap_migration-prototype-1.jpg"
+    },
+    {
+      "name": "Ruckus Wireless - Email Templates",
+      "page": "ruckus-wireless-email-templates.php",
+      "thumb": "ruckus_email-mockup-c.jpg"
+    },
+    {
+      "name": "Ruckus Wireless - Other Projects",
+      "page": "ruckus-wireless-other-projects.php",
+      "thumb": "ruckus_other-product_master.jpg"
+    },
+    {
+      "name": "Ruckus Wireless - Support Redesign",
+      "page": "ruckus-wireless-support-redesign.php",
+      "thumb": "ruckus_support_mockups-homepage.jpg"
+    },
+    {
+      "name": "Ruckus Wireless - UI Updates",
+      "page": "ruckus-wireless-ui-updates.php",
+      "thumb": "ruckus_www-video_load-b.png"
+    },
+    {
+      "name": "Ruckus Wireless - Wifiagra Campaign",
+      "page": "ruckus-wireless-wifiagra-campaign.php",
+      "thumb": "ruckus_wifiagra.jpg"
+    },
+    {
+      "name": "SAIT Polytechnic - Course Template",
+      "page": "sait-polytechnic-course.php",
+      "thumb": "sait-course_landing.png"
+    }
+  ]
+}
